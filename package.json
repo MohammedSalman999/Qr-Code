@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "a project that can make a barcode of every shared url",
+  "main": "index.js",
+  "type": "module",
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammed salman",
+  "license": "ISC"
+}
